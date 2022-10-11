@@ -192,7 +192,7 @@ margin-right: 95px;
         height: 23px;
     }
 }
-@media (max-width: 829px) {
+@media screen and (min-width: 375px) and (max-width: 829px) {
     .sfr-main{
         width: 375px;
         height: 776px;
